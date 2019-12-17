@@ -7,10 +7,10 @@ header('Access-Control-Allow-Origin: *');
 
 
 $resultObj = new stdClass();
-$omdbapikey = "9e790f8b"; // api for omdb 
-$moviedbapikey = "f355537d3006a3990d191efda19c9d8e"; // api for movie db
-$isapikey = "7UiR6NYdJicQiXms2GOxJSqBddHXuivw"; //api for international showtime
-$modelmonkeyapi = "6eca72272d553df5928718e275c71d800d498e5d"; //api for model monkey
+$omdbapikey = "YOUR_API_KEY_HERE"; // api for omdb 
+$moviedbapikey = "YOUR_API_KEY_HERE"; // api for movie db
+$isapikey = "YOUR_API_KEY_HERE"; //api for international showtime
+$modelmonkeyapi = "YOUR_API_KEY_HERE"; //api for model monkey
 $imdb_id = $_GET['imdb_id'];
 
 
