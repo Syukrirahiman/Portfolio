@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96a45689.chunk.css",
+    "main.js": "/static/js/main.23971d5f.chunk.js",
+    "main.js.map": "/static/js/main.23971d5f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1593651.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1593651.js.map",
+    "static/js/2.a6f41078.chunk.js": "/static/js/2.a6f41078.chunk.js",
+    "static/js/2.a6f41078.chunk.js.map": "/static/js/2.a6f41078.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.59b06744b60a1cef19793ff0dcd1f403.js": "/precache-manifest.59b06744b60a1cef19793ff0dcd1f403.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.96a45689.chunk.css.map": "/static/css/main.96a45689.chunk.css.map",
+    "static/media/BEARCONS.png": "/static/media/BEARCONS.f46f04df.png",
+    "static/media/NTUC.png": "/static/media/NTUC.d3a1a167.png",
+    "static/media/SMU.png": "/static/media/SMU.7f61c372.png",
+    "static/media/layout.jpg": "/static/media/layout.d4ef9fea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1593651.js",
+    "static/js/2.a6f41078.chunk.js",
+    "static/css/main.96a45689.chunk.css",
+    "static/js/main.23971d5f.chunk.js"
+  ]
+}
